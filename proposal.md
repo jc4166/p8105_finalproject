@@ -10,7 +10,7 @@ Katherine Dimitropoulou (kd2524)
 ## Project Title
 
 Pre-operative risk factors for complications after spine surgery in
-patients with cerebral palsy: A retrospective case-control study
+patients with cerebral palsy: A retrospective cohort study
 
 ## Motivation
 

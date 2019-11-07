@@ -20,46 +20,47 @@ muscles. The incidence ranges from 15%-80% in recent literature. The
 clinical characteristics of neuromuscular scoliosis involve a deformity
 of the lumbar and thoracic spine that often is accompanied with pelvic
 obliquity and postural problems and lead to loss of function and
-possibly pain. Severe neuromuscular scoliotic curves (\>50degrees) are
+possibly pain. Severe neuromuscular scoliotic curves (\>50 degrees) are
 difficult to control with braces, especially if they are rapidly
 growing. Surgical treatment is often the recommended intervention to
 prevent further deterioration of posture and functional mobility, and
-improve quality of life. The surgical treatment of individuals with CP
-who present with severe neuromuscular scoliosis has been associated with
-a high peri-operative and post-operative complication rates as high as
-75%. Mohamad et al. (2007) carried out a retrospective record review of
-175 patients with neuromuscular scoliosis, with 73.7 % of them being
-patients with CP. The peri- and post-operative complications rate was
-33.1 % (58/175). Patients experienced a combination of pulmonary
-complications (~20%), infections (8%), neurological (4%), and
-cardiovascular problems (4%). In another retrospective study, Tsirikos
-et al. (2008) reported data in 287 patients with CP who underwent spinal
-fusion. They reported major complications including 3 perioperative
-deaths, an intraoperative complication rate of 10.8 % (38/287), an early
-postoperative (within 6 weeks) complication rate of 9.4 % (27/287), and
-a late postoperative complication rate of 10.1 % (29/ 287). Lastly, a
-prospective cohort study with 127 patients with CP (Samdani, et.al.
-2016) reported an overall 39.4% of major perioperative complications
-that resulted in increased hospitalization length, use of intensive care
-unit, and readmission. The authors reported perioperative risk variables
-such as increase of blood loss, staged procedures and the lack of
+improve quality of life.
+
+The surgical treatment of individuals with CP who present with severe
+neuromuscular scoliosis has been associated with a high peri-operative
+and post-operative complication rates as high as 75%. Mohamad et al.
+(2007) carried out a retrospective record review of 175 patients with
+neuromuscular scoliosis, with 73.7 % of them being patients with CP. The
+peri- and post-operative complications rate was 33.1 % (58/175).
+Patients experienced a combination of pulmonary complications (~20%),
+infections (8%), neurological (4%), and cardiovascular problems (4%). In
+another retrospective study, Tsirikos et al. (2008) reported data in 287
+patients with CP who underwent spinal fusion. They reported major
+complications including 3 perioperative deaths, an intraoperative
+complication rate of 10.8 % (38/287), an early postoperative (within 6
+weeks) complication rate of 9.4 % (27/287), and a late postoperative
+complication rate of 10.1 % (29/ 287). Lastly, a prospective cohort
+study with 127 patients with CP (Samdani, et.al. 2016) reported an
+overall 39.4% of major perioperative complications that resulted in
+increased hospitalization length, use of intensive care unit, and
+readmission. The authors reported perioperative risk variables such as
+increase of blood loss, staged procedures and the lack of
 antifibrinolytic use. They also reported some pre-operative indicators
 such as the larger preoperative kyphosis, lower body mass index (BMI) as
-risk factors for complications. In all studies, there appear to be
-pre-operative risk factors associated with increased complications but
-no study has comprehensively examined these factors. Understanding the
-role of pre-operative risk factors can assist the interdisciplinary team
-to develop a pre-operative intervention protocol that can better prepare
-patients for surgery and minimize peri- and post operative
-complications. The purpose of our study is to examine the pre-operative
-risk factors and understand their association with spinal surgery
-complications in patients with CP. Our team comprises of
-anesthesiologists and rehabilitation therapists who can combine
-expertise to develop behavioral and biological intervention protocols,
-and to make decisions regarding the proper timing and optimization for
-surgery.
+risk factors for complications.
 
-## Intended Final Products
+In all studies, there appear to be pre-operative risk factors associated
+with increased complications but no study has comprehensively examined
+these factors. Understanding the role of pre-operative risk factors can
+assist the interdisciplinary team to develop a pre-operative
+intervention protocol that can better prepare patients for surgery and
+minimize peri- and post operative complications. The purpose of our
+study is to examine the pre-operative risk factors and understand their
+association with spinal surgery complications in patients with CP. Our
+team comprises of anesthesiologists and rehabilitation therapists who
+can combine expertise to develop behavioral and biological intervention
+protocols, and to make decisions regarding the proper timing and
+optimization for surgery.
 
 ## Anticipated Data Sources
 
@@ -111,11 +112,23 @@ data, inconsistent assignment of numeric vs. character variables from
 one year of study data to another, as well as rarity of certain adverse
 events leading to low study power.
 
+## Intended Final Products
+
+All three team members care for CP patients in our clinical practice;
+therefore, we have an interest in exploring ways to improve surgical
+outcomes for these patients. As outlined above, we hope that our
+analyses will help dilineate the peri-operative factors that affect
+surgical complications, and serve as the basis for prospective studies
+that can interene on these factors to reduce complication rates. We will
+produce a written report, website, and webcast presenting our findings.
+Depending on our findings, we also hope to produce a manuscript for
+publication.
+
 ## Planned Timeline
 
-We aim to complete data import and cleaning during week 1(lead: Lisa
-Eisler). Exploratory analyses to take place week 2(lead: Jerri Chen).
-Formal analyses and creation of data tables and plots week 3-4(lead:
+We aim to complete data import and cleaning during week 1 (lead: Lisa
+Eisler). Exploratory analyses to take place week 2 (lead: Jerri Chen).
+Formal analyses and creation of data tables and plots week 3-4 (lead:
 Katherine Dimitrpopoulou). Written report and webcast to be completed
 week 4 (lead: Lisa Eisler and Jerri Chen, edited by Katherine
 Dimitropoulou).

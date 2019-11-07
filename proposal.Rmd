@@ -50,4 +50,4 @@ All three team members care for CP patients in our clinical practice; therefore,
 
 
 ## Planned Timeline
-We aim to complete data import and cleaning during week 1 (lead: Lisa Eisler). Exploratory analyses to take place week 2 (lead: Jerri Chen). Formal analyses and creation of data tables and plots week 3-4 (lead: Katherine Dimitrpopoulou). Written report and webcast to be completed week 4 (lead: Lisa Eisler and Jerri Chen, edited by Katherine Dimitropoulou).
+We aim to complete data import and cleaning during week 1 (lead: Lisa Eisler). Exploratory analyses to take place week 2 (lead: Jerri Chen). Formal analyses and creation of data tables and plots week 3-4 (lead: Katherine Dimitrpopoulou). Written report and webcast to be completed week 4 (lead: Lisa Eisler and Jerri Chen, edited by Katherine Dimitropoulou). 
